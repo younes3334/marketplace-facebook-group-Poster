@@ -4,7 +4,7 @@ Thanks for reading this guide for the code !
 
 **First**:   
 if you do not have the necceray libraries for the work, you will need to install the requirements by running the following in your terminal:  
-    > => pip install -r requirements.txt  
+> => pip install -r requirements.txt  
   
 **Secondly** :   
 < => The file **data.csv** contain the Content to post information (Image link, Name, Description, Price ...).  
